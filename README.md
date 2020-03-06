@@ -1,3 +1,2 @@
-# GAN-Learning
+# Here is a notebook for PyTorch learning 
 
-# used for learning GAN 
