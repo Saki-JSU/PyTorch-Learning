@@ -1,5 +1,7 @@
 # Pytorch库安装
 
+软件预装：Anaconda+Pycharm
+
 ## 1. 创建名为pytorch的环境
 
 
@@ -40,7 +42,7 @@
 
 > 去掉 `-c pytorch` 表示从清华镜像上下载而非原文件下载
 
-> 如下载失败 需在\Anaconda\pkgs\  将pytorch-1.7.1-py3.8_cpu_0文件夹删除，然后重新下载
+> 如下载失败（镜像不稳定，失败时多试几次） 需在\Anaconda\pkgs\  将pytorch-1.7.1-py3.8_cpu_0文件夹删除，然后重新下载
 
 ## 5. 打开pycharm，新建一个python 文件，测试代码：
 ```javascript
