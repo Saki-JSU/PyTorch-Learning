@@ -2,7 +2,7 @@ Pytorch库安装
 1. 创建名为pytorch的环境
 在Pycharm中新建项目时，第一行location表示项目保存的位置，第二行location表示新创建的环境所在位置，只需更改\Anaconda\envs\ 后面的环境名，如pytorch，第三行为conda执行文件地址如下
 
-![](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png)
+![图1](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png)
 
 2. 删除环境：在Anaconda中可以直接删除，同时在\Anaconda\envs\ 中删除相应文件夹
 
