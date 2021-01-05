@@ -28,8 +28,11 @@
  `conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/`
  `conda config --set show_channel_urls yes`
 安装：`conda install pytorch torchvision torchaudio cpuonly`
+
 > 安装的命令不同版本参见官网   https://pytorch.org/
+
 > 去掉 `-c pytorch` 表示从清华镜像上下载而非原文件下载
+
 > 如下载失败 需在\Anaconda\pkgs\  将pytorch-1.7.1-py3.8_cpu_0文件夹删除，然后重新下载
 
 ## 5. 打开pycharm，新建一个python 文件，测试代码：
