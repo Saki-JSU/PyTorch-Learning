@@ -17,16 +17,23 @@
 
 ## 3. Anaconda Prompt常用环境命令
 显示所有的环境：`conda env list`
+
 激活pytorch：`conda activate pytorch`
+
 退出pytorch：`conda deactivate pytorch`
 
 
 ## 4. 安装pytorch
 进入Anaconda Prompt
+
 激活pytorch环境：`conda activate pytorch`
+
 设置清华镜像：
+
  `conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/`
+ 
  `conda config --set show_channel_urls yes`
+ 
 安装：`conda install pytorch torchvision torchaudio cpuonly`
 
 > 安装的命令不同版本参见官网   https://pytorch.org/
