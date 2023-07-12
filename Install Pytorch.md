@@ -1,6 +1,6 @@
 # Pytorch库安装
 
-软件预装：Anaconda+Pycharm
+软件预装：[Anaconda](https://www.anaconda.com/download) + [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## 1. 新建项目并创建环境
 
@@ -9,7 +9,8 @@
 1. 第一个location表示项目（Project）保存的位置和项目名称（可自定义，此处为项目名为Homework）
 2. New environment using 选择 Conda
 3. 第二个location表示新创建的环境（Environment）所在位置，需要修改 \Anaconda\envs\ 后面的环境名。环境名命名可以自定义，一般选择python对应版本作为名字，如 py38 或者 py39，此处为 py39
-4. 第三行为conda执行文件地址如下
+4. conda executable 地址为 Anaconda 软件安装对应的地址
+5. Make avaliable to all projects 选√
 
 ![图1](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png?raw=true)
 
