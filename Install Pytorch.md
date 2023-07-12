@@ -17,26 +17,20 @@
 <img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/2023071201.png" width="800px">
 </div>
 
-
-## 2. 删除环境
-在Anaconda中可以直接删除，同时在\Anaconda\envs\ 中删除相应文件夹
-
-![图2](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig2.png?raw=true)
-
-
-
-## 3. Anaconda Prompt常用环境命令
+## 2. Anaconda Prompt 常用环境命令
 显示所有的环境：`conda env list`
 
-激活pytorch：`conda activate pytorch`
+激活环境：`conda activate py39`
 
-退出pytorch：`conda deactivate pytorch`
+退出环境：`conda deactivate`
+
+删除环境： `conda remove --name py39 --all`
 
 
-## 4. 安装pytorch
+## 3. 安装pytorch
 进入Anaconda Prompt
 
-激活pytorch环境：`conda activate pytorch`
+激活pytorch环境：`conda activate py39`
 
 设置清华镜像：
 
@@ -52,7 +46,7 @@
 
 > 如下载失败（镜像不稳定，失败时多试几次） 需在\Anaconda\pkgs\  将pytorch-1.7.1-py3.8_cpu_0文件夹删除，然后重新下载
 
-## 5. 打开pycharm，新建一个python 文件，测试代码：
+## 4. 打开pycharm，新建一个python 文件，测试代码：
 ```javascript
 import torch
 import torchvision
