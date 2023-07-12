@@ -11,6 +11,7 @@
 3. 第二个location表示新创建的环境（Environment）所在位置，需要修改 \Anaconda\envs\ 后面的环境名。环境名命名可以自定义，一般选择python对应版本作为名字，如 py38 或者 py39，此处为 py39
 4. conda executable 地址为 Anaconda 软件安装对应的地址
 5. Make avaliable to all projects 选√
+6. 注意新建环境是尽量不要使用 VPN 等网络代理
 
 <div align=center>
 <img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/2023071201.png" width="800px">
