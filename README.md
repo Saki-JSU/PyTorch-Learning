@@ -1,2 +1,2 @@
-# Here is a notebook for PyTorch learning 
+# A notebook for PyTorch
 
