@@ -13,10 +13,8 @@
 5. Make avaliable to all projects 选√
 
 <div align=center>
-<img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png" width="800px">
+<img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/2023071201.png" width="800px">
 </div>
-
-![图1](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png?raw=true)
 
 
 ## 2. 删除环境
