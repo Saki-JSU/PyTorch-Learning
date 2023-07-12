@@ -2,10 +2,14 @@
 
 软件预装：Anaconda+Pycharm
 
-## 1. 创建名为pytorch的环境
+## 1. 新建项目并创建环境
 
+在Pycharm中新建项目时，会出现以下选项：
 
-在Pycharm中新建项目时，第一行location表示项目保存的位置，第二行location表示新创建的环境所在位置，只需更改\Anaconda\envs\ 后面的环境名，如pytorch，第三行为conda执行文件地址如下
+1. 第一个location表示项目（Project）保存的位置和项目名称（可自定义，此处为项目名为Homework）
+2. New environment using 选择 Conda
+3. 第二个location表示新创建的环境（Environment）所在位置，需要修改 \Anaconda\envs\ 后面的环境名。环境名命名可以自定义，一般选择python对应版本作为名字，如py38或者py39，此处为py39；
+4. 第三行为conda执行文件地址如下
 
 ![图1](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png?raw=true)
 
