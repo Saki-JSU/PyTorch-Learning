@@ -56,4 +56,7 @@ print(torchvision.__version__)
 ```
 
 如输出正常输出版本号，则安装成功
-![图3](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig3.png?raw=true)
+
+<div align=center>
+<img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/2023071202.png" width="800px">
+</div>
