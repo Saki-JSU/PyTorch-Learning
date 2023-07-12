@@ -12,7 +12,7 @@
 4. conda executable 地址为 Anaconda 软件安装对应的地址
 5. Make avaliable to all projects 选√
 
-<img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png" width="1000px">
+<img src="https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png" width="500px">
 
 ![图1](https://github.com/Saki-JSU/MarkdownImage/blob/main/Fig1.png?raw=true)
 
