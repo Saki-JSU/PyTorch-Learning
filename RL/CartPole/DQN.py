@@ -45,7 +45,6 @@ def state_reward(state, env_reward):
 
 # epsilon-greedy algorithm
 epsilon = 1  # initial epsilon
-min_epsilon = 0.1
 epsilon_decay = 0.9 / 2.5e3
 def get_action(state, epsilon):
     if random.random() < epsilon:
