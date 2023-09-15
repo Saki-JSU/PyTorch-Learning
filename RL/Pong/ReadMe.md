@@ -1,6 +1,8 @@
 # An example of Pong based on the DQN algorithm.
 
-## install packages
-pip install gym[atari]
-pip install gym[accept-rom-license]
-pip install opencv-python
+## 安装库
+安装 gym[atari] 库： `pip install gym[atari]` 
+
+安装 gym[accept-rom-license] 库： `pip install gym[accept-rom-license]`
+
+安装opencv-python 库： `pip install opencv-python`
