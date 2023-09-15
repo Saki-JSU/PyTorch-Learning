@@ -1,4 +1,4 @@
-# An example of Pong based on the DQN algorithm.
+# An example of Pong
 
 ## 安装库
 安装 gym[atari] 库： `pip install gym[atari]` 
