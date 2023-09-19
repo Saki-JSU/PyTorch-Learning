@@ -9,7 +9,7 @@
 
 安装 gym[accept-rom-license] 库： `pip install gym[accept-rom-license]`
 
-安装opencv-python 库： `pip install opencv-python`
+安装 opencv-python 库： `pip install opencv-python`
 
 安装 moviepy 库： `pip install moviepy`
 
